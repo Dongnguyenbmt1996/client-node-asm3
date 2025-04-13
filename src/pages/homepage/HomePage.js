@@ -44,7 +44,7 @@ export default function HomePage() {
               New Inspiration 2020
             </p>
             <h1 className="h2 text-uppercase mb-3 fw-normal fst-italic">
-              20% off on new season
+              50% off on new season
             </h1>
             <button
               className="btn btn-dark rounded-0 fw-light fst-italic"
